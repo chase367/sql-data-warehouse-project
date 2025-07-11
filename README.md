@@ -63,11 +63,13 @@ these insights back up stakeholders with key business metrics and enable starteg
 
 
 **★ About Me**
-Hello! I am Chase Jones and at the time of this projects creation I wil be entering my senior year of college, purusing a degree in information managment withh a dual emphasis in data analytics.
+Hello! I am Chase Jones and at the time of this projects creation I wil be entering my senior year of college, purusing a degree in information managment withh a dual emphasis in data analytics. 
+Let's stay in touch — feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-chase-jones-855039335
-)
+chase-jones-855039335)
+
+📧 [Email Me](mailto:cj843072@gmail.com)
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
