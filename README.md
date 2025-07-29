@@ -24,7 +24,7 @@ Customer Behavior
 Product Performance
 Sales Trends
 
-📌 Project Requirements
+Project Requirements
 Building the Data Warehouse (Data Engineering)
 
 Objective
