@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a super cool unique awesome database... SQL server with ETL processes, data modeling and analytics 
+Building a database with a SQL server and ETL processes, data modeling and analytics 
 
 **Project Requirments**
 Objective
