@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a database with a SQL server and ETL processes, data modeling and analytics 
+Built a modern data warehouse using SQL Server to condense sales data from ERP and CRM systems for improved reporting and decision-making. Imported and cleaned data from CSV files, designed a three-layer architecture (Bronze, Silver, Gold), and developed a star schema optimized for analytics. Wrote SQL queries to analyze and clean customer behavior, product performance, and sales trends data. Provided clear documentation to support business users and analysts.
 
 **Project Requirments**
 Objective
